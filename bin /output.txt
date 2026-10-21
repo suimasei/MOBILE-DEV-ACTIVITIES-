@@ -1,0 +1,6 @@
+===[STEAM RECEIPT]===
+Gamer: Zyann Kyle Condino
+Item: Steam Wallet Code
+Quantity: 2
+Total Amount: PHP 500
+Eligible for Bonus Points? true
